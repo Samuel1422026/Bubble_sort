@@ -1,4 +1,7 @@
 Mengapa Bubble Sort Memiliki Kompleksitas O(n²)?
+
+
+
 Karena Bubble Sort membandingkan setiap elemen dengan elemen di sebelahnya dalam sebuah nested loop (loop bersarang).
 
 for (int i = 0; i < 3; i++) {           // loop luar
